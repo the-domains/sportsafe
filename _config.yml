@@ -1,0 +1,14 @@
+layout_spectrum: 0.4404994952492416
+typography_spectrum: 0.10843715304508805
+color:
+  brandStrength: 0.09525088220834732
+  lightness: 0.3037001616321504
+  saturation: 0.6592930196784437
+  rhythmicContrast: 0.01912553678266704
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+name: SportSafe
